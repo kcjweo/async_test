@@ -1,2 +1,2 @@
 # async_test
-wait 3seconds and execute as sequential
+simple code of waiting 3seconds and execute as sequential
